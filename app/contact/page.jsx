@@ -6,7 +6,7 @@ export default function contact() {
   return (
     <div className="">
       <h1 className="text-center font-extrabold text-4xl">
-        Let's Keep in Touch
+        Let&apos;s Keep in Touch
       </h1>
       <div className="flex items-center justify-between gap-5 ">
         <div className="flex-1">
