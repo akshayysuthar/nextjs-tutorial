@@ -46,7 +46,7 @@ const Navbar = () => {
             {link.title}
           </Link>
         ))}
-        <button className="bg-green-400 text-black py-1 px-3 rounded-md">Login</button>
+        <button className="bg-green-400  text-black py-1 px-3 rounded-md">Login</button>
       </div>
     </div>
   );
